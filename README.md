@@ -25,3 +25,7 @@ Challenge | Category | Remarks
 [COVID's Communication Technology](./Solved/COVID_s_Communication_Technology) | Internet Of Things | 
 [I smell updates!](./Solved/I_smell_updates) | Internet Of Things | 
 [Can COViD steal Bob's idea?](./Solved/Can_COViD_steal_Bob_s_idea) | Crypto | 
+[Contact Us!](./Solved/Contact_Us) | Mobile | 
+[REconstrucQ](./Solved/REconstrucQ) | Misc | 
+[FWO FWF](./Solved/FWO_FWF) | Misc | 
+[Diving in](./Solved/Diving_in) | Misc | 
